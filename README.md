@@ -4,7 +4,7 @@
 - 🤔 Focusing in build more performatic solutions with low-level programming languages
 - 🎓 Studying System Analysis and Development in FMU.
 - 💼 Working as Fullstack Developer at Awto.
-- 🌱 Learning more about Golang and UX/UI concepts.
+- 🌱 Learning more about AI UX/UI concepts.
 
 ## My Skills
 
@@ -17,8 +17,6 @@
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=Pandas&logoColor=1572B6)
 ![Bun](https://img.shields.io/badge/-Bun-333333?style=flat&logo=Bun)
 ![Express](https://img.shields.io/badge/-Express-333333?style=flat&logo=Express)
-![Golang](https://img.shields.io/badge/-Golang-333333?style=flat&logo=Go)
-![Gin](https://img.shields.io/badge/-Gin-333333?style=flat&logo=Gin)
 
 **Front-end**
 

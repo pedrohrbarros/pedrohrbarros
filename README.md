@@ -4,7 +4,7 @@
 - 🤔 Focusing in build more performatic solutions with low-level programming languages
 - 🎓 Studying System Analysis and Development in FMU.
 - 💼 Working as Fullstack Developer at Awto.
-- 🌱 Learning more about AI UX/UI concepts.
+- 🌱 Learning more about AI and new UX/UI concepts.
 
 ## My Skills
 

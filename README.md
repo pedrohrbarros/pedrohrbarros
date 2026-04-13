@@ -1,12 +1,4 @@
 
-### 📍 Profile Visitor Count
-
-<p>
-  <img
-    src="https://profile-counter.glitch.me/pedrohrbarros/count.svg"
-  />
-</p>
-
 ## About me
 
 - 🤔 Focusing in build more performatic solutions with low-level programming languages
@@ -77,6 +69,5 @@
 ## Find me
 
 [![Linkedin](https://img.shields.io/badge/-Pedro%20Henrique%20Rodrigues%20de%20Barros-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-henrique-rodrigues-de-barros-39077b159/?locale=en_US)](https://www.linkedin.com/in/pedro-henrique-rodrigues-de-barros/?locale=en_US)
-[![E-mail Badge](https://img.shields.io/badge/-pedrobarros232@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrobarros232@hotmail.com)](mailto:pedrobarros232@hotmail.com)
-[![Site Portfolio](https://img.shields.io/badge/-Portfolio-FFFFFF?style=flat-square&logo=meteor&logoColor=black&link=mailto:pedrobarros232@hotmail.com)](https://site-portfolio-pedro-barros.vercel.app/)
+[![E-mail Badge](https://img.shields.io/badge/-phbarros232@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedrobarros232@hotmail.com)](mailto:pedrobarros232@hotmail.com)
 [![GitHub](https://img.shields.io/github/followers/pedrohrbarros?label=follow&style=social)](https://github.com/pedrohrbarros/)
